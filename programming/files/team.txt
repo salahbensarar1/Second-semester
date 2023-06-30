@@ -1,0 +1,6 @@
+Kiss 1990 goalkeeper 10 0 0
+Nagy 2002 defender 7 3 1
+Kovacs 2000 forward 9 8 5
+Simon 1999 winger 7 4 1
+Varga 1985 midfilder 9 3 2
+Toth 1998 defender 8 6 5

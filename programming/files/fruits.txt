@@ -1,0 +1,8 @@
+Apple 15 2
+Plums 5 3
+Strawberry 10 6
+Grapes 20 4
+Orange 10 5
+Kiwi 3 3
+Lemon 4 1
+Pears 20 3
